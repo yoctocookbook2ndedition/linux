@@ -478,7 +478,7 @@ gckPLATFORM_AdjustParam(
   if(Args->physSize == 0)
     Args->physSize = 0x80000000;
 
-    return gcvSTATUS_OK;
+  return gcvSTATUS_OK;
 }
 
 gceSTATUS
