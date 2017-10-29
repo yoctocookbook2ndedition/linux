@@ -319,6 +319,7 @@ dtb-$(CONFIG_SOC_IMX6Q) += \
 	imx6qp-sabresd-ldo.dtb \
 	imx6qp-sabresd-ldo-pcie-cert.dtb \
 	imx6qp-wandboard-revd1.dtb \
+	imx6qp-wandboard-custom-revd1.dtb \
 	imx6q-sabrelite.dtb \
 	imx6q-sabresd.dtb \
 	imx6q-sabresd-btwifi.dtb \
